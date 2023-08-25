@@ -1,4 +1,4 @@
-### video calling app code
+### video calling using web-RTC
 
 #### dependencies
 
